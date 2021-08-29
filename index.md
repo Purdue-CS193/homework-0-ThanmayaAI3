@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Thanmaya's First CS193 Homework
+
+- The instructors seem nice
+- The class seems to give a lot of useful information
+- The work load seems manageable alongside my difficult workload classes
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
